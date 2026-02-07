@@ -9,11 +9,11 @@ You can also include images in this folder and reference them in the markdown. E
 
 ## How it works
 
-Explain how your project works
+I have created a simple clock divider. The output, and the negated output of the clock divider is connected to two different flip flop. With two different flip flops, we can generate four different states. The output of the flip flops is connected to a combinational logic circuit, which generates the number from 1 to 4.
 
 ## How to test
 
-Explain how to use your project
+Press the simulation button.
 
 ## External hardware
 
