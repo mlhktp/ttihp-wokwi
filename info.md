@@ -1,0 +1,3 @@
+## How it works
+
+I have created a simple clock divider. The output, and the negated output of the clock divider is connected to two different flip flop. With two different flip flops, we can generate four different states. The output of the flip flops is connected to a combinational logic circuit, which generates the number from 1 to 4.
