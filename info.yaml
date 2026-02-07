@@ -1,8 +1,8 @@
 # Tiny Tapeout project information (Wokwi project)
 project:
-  wokwi_id:     0       # Set this to the ID of your Wokwi project (the number from the project's URL)
-  title:        ""      # Project title
-  author:       ""      # Your name
+  wokwi_id:     455293203542942721       # Set this to the ID of your Wokwi project (the number from the project's URL)
+  title:        "1-4 Counter"      # Project title
+  author:       "Melih"      # Your name
   discord:      ""      # Your discord username, for communication and automatically assigning you a Tapeout role (optional)
   description:  ""      # One line description of what your project does
   language:     "Wokwi" # other examples include SystemVerilog, Amaranth, VHDL, etc
@@ -26,14 +26,14 @@ pinout:
   ui[7]: ""
 
   # Outputs
-  uo[0]: ""
-  uo[1]: ""
-  uo[2]: ""
-  uo[3]: ""
-  uo[4]: ""
-  uo[5]: ""
-  uo[6]: ""
-  uo[7]: ""
+  uo[0]: "output 0"
+  uo[1]: "output 1"
+  uo[2]: "output 2"
+  uo[3]: "output 3"
+  uo[4]: "output 4"
+  uo[5]: "output 5"
+  uo[6]: "output 6"
+  uo[7]: "output 7"
 
   # Bidirectional pins
   uio[0]: ""
